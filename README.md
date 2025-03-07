@@ -1,4 +1,5 @@
-# IntrusionDetectProxy
+# Hybrid Cyber-Physical Security Framework for Maritime Vessels
+# IntrusionDetectProx
 # Machine Learning-Driven Web Application Firewall (WAF)
 
 This repository contains the implementation of a machine learning-based Web Application Firewall (WAF) designed to enhance web application security by detecting and mitigating potential threats in real-time. The project leverages BurpSuite for data collection, Python for data preprocessing, and machine learning algorithms for accurate threat detection and classification.
